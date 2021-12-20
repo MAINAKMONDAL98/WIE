@@ -101,7 +101,7 @@ $(window).scroll(function(){
 
 function initialize() {
     var mapOptions = {
-	center: new google.maps.LatLng(40.7828839,-73.9652425),
+	center: new google.maps.LatLng(22.5822701,88.4360927),
 	zoom: 15,
 	scrollwheel: false,
 	mapTypeId: google.maps.MapTypeId.ROADMAP
